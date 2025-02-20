@@ -55,6 +55,9 @@ Description:
 A simple Python program that simulates a coin toss, randomly generating heads or tails. A great beginner project to understand probability and randomness in Python.
 
 Features:
+
 ✅ Simulates real-world coin flipping
+
 ✅ Uses Python’s random module
+
 ✅ Simple and effective for learning randomness
