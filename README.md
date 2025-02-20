@@ -1,6 +1,6 @@
 # Python-Challenges
 
-1. Number Guessing Game 🎲
+1. NUMBER GUESSING GAME 🎲
    
 Description:
 
@@ -16,7 +16,7 @@ Features:
 
 
 
-2. Voting App 🗳️
+2. VOTTING APP 🗳️
    
 Description:
 
@@ -32,7 +32,7 @@ Features:
 
 
 
-3. Shipment Charges Prediction 🚚💰
+3. SHIPMENT CHARGED PREDICTION 🚚💰
    
 Description:
 
@@ -48,7 +48,7 @@ Features:
 
 
 
-4. Coin Toss Simulator 🪙
+4. COIN TOSS SIMULATOR 🪙
    
 Description:
 
