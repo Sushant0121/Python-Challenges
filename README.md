@@ -41,4 +41,15 @@ A machine learning project that predicts shipment charges based on key factors l
 
 * Machine Learning model for charge prediction
 
+# 🛠️ Tech Used
 
+ * Python 3
+
+ * No external libraries
+
+ * Run directly via terminal, VS Code, or any Python IDE
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   
+👨‍💻 Author
+
+* Sushant Kalsar
