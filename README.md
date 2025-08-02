@@ -1,50 +1,44 @@
 # Python-Challenges
 
-1.	NUMBER GUESSING GAME 🎲
+# 1.	NUMBER GUESSING GAME 🎲
    
 A fun and interactive Python game where the user guesses a randomly generated number. The game provides hints, improving logical thinking and algorithmic problem-solving skills.
 
-Features:
+* Random number generation
 
-✅ Random number generation
+* User-friendly interaction with hints
 
-✅ User-friendly interaction with hints
-
-✅ Limited attempts for added challenge
+* Limited attempts for added challenge
 
 
-2.	VOTTING APP 🗳️
+# 2.	VOTTING APP 🗳️
    
 A Python-based interactive voting system where users can cast votes and analyze results. This project demonstrates user input handling, data storage, and visualization techniques. Ideal for learning basic CRUD operations in Python.
 
-Features:
+* Interactive voting system
 
-✅ Interactive voting system
+* Real-time result visualization
 
-✅ Real-time result visualization
-
-✅ Simple and user-friendly interface
+* Simple and user-friendly interface
 
 
-3.	COIN TOSS SIMULATOR 🪙
+# 3.	COIN TOSS SIMULATOR 🪙
    
 A simple Python program that simulates a coin toss, randomly generating heads or tails. A great beginner project to understand probability and randomness in Python.
 
-Features:
+* Simulates real-world coin flipping
 
-✅ Simulates real-world coin flipping
+* Uses Python’s random module
 
-✅ Uses Python’s random module
-
-✅ Simple and effective for learning randomness
+* Simple and effective for learning randomness
 
 
-4.	SHIPMENT CHARGED PREDICTION 🚚💰
+# 4.	SHIPMENT CHARGED PREDICTION 🚚💰
    
 A machine learning project that predicts shipment charges based on key factors like distance, weight, and delivery type. This project applies data preprocessing, EDA, and regression models to make accurate cost predictions.
 
-Features:
+* Exploratory Data Analysis (EDA) with visualizations
 
-✅ Exploratory Data Analysis (EDA) with visualizations
+* Machine Learning model for charge prediction
 
-✅ Machine Learning model for charge prediction
+
